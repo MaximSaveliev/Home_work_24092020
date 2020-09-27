@@ -1,0 +1,4 @@
+ol .first , ol li:first-child{
+    background-color: #ddd;
+    width: 150px;
+}
